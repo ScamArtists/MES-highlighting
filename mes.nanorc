@@ -1,0 +1,17 @@
+# Syntax highlighting for MathEnslaver Scripts.
+syntax mes "\.mes$"
+
+# Comments
+color brightred "#.+"
+
+# Types
+color brightblue "(model|const|funct|state)"
+
+# Special characters
+color brightyellow "(\$|:|;)"
+
+# Common math operations
+color cyan "(\*|\/|\+|-)"
+
+# Comparing operators
+color brightcyan "(<=|>=|<|>|==)"
