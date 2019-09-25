@@ -4,8 +4,8 @@ This will be syntax highlighting for MES files, for several text editors.
 At this point, only nano has highlighting.
 
 ## Installing
-The install script is kind of limited at this point in time. However, with root permissions, you can use it
-to install the highlighting for all users:
+The install script is kind of limited at this point in time. However, you can use it
+to install the highlighting for the current user:
 ```sh
 git clone https://github.com/ScamArtists/MES-highlighting.git
 cd MES-highlighting
