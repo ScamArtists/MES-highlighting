@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # Configuration files
-nano="~/.nanorc"
+nano="$HOME/.nanorc"
 
 case "$1" in
     "i" | "install")
